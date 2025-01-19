@@ -1,13 +1,3 @@
-   <div id="layoutAuthentication_footer">
-                <footer class="py-4 bg-light mt-auto">
-                    <div class="container-fluid px-4">
-                        <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">User Registration & Login System</div>
-                            <div>
-                          
-    
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-            </div>
+version https://git-lfs.github.com/spec/v1
+oid sha256:97de6620d0057de15ea5c140b97b7f90ea49a1394ee0847ec9f3afe839aeeb0f
+size 552

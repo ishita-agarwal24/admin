@@ -1,15 +1,3 @@
-<?php
-define('DB_SERVER','localhost');
-define('DB_USER','root');
-define('DB_PASS' ,'');
-define('DB_NAME', 'loginsystem');
-$con = mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
-
-// Check connection
-if (mysqli_connect_errno())
-{
-echo "Failed to connect to MySQL: " . mysqli_connect_error();
- }
-
-?>
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab666446aff896ea28a605236635fa6fe1671745254e0951a6d964469cd4021
+size 316

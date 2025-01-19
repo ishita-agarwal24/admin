@@ -1,30 +1,3 @@
-  <div id="layoutSidenav_nav">
-                <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
-                    <div class="sb-sidenav-menu">
-                        <div class="nav">
-                            <div class="sb-sidenav-menu-heading">Core</div>
-                            <a class="nav-link" href="dashboard.php">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Dashboard
-                            </a>
-                            
-                 
-                            <a class="nav-link" href="manage-users.php">
-                                <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
-                                Manage Users
-                            </a>
-
- <a class="nav-link" href="bwdates-report-ds.php">
-                                <div class="sb-nav-link-icon"><i class="fa fa-calendar"></i></div>
-                                B/w Dates Report
-                            </a>
-
-                            <a class="nav-link" href="logout.php">
-                                <div class="sb-nav-link-icon"><i class="fas fa-sign-out-alt"></i></div>
-                                Signout
-                            </a>
-                        </div>
-                    </div>
-                
-                </nav>
-            </div>
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ca6a69cad6436e2e15a926102575b70cdaf20d70fbbbcf2cdcb3aa0ecbae7f
+size 1457
